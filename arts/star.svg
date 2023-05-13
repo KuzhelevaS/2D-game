@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="star.svg"
+   inkscape:export-filename="/home/svetlana/Docs/cpp/projects/Star_Survival/arts/star.png"
+   inkscape:export-xdpi="192.668"
+   inkscape:export-ydpi="192.668"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.0875"
+     inkscape:cx="-937.14286"
+     inkscape:cy="4154.2857"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-bbox="false"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:pagecheckerboard="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-others="false"
+     inkscape:snap-grids="true"
+     inkscape:snap-to-guides="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-page="false">
+    <sodipodi:guide
+       position="-361.7407,-619.63916"
+       orientation="1,0"
+       id="guide20364" />
+    <sodipodi:guide
+       position="-176.53234,-619.66568"
+       orientation="1,0"
+       id="guide20366" />
+    <sodipodi:guide
+       position="8.675961,-619.66568"
+       orientation="1,0"
+       id="guide20368" />
+    <sodipodi:guide
+       position="193.88438,-619.66568"
+       orientation="1,0"
+       id="guide20370" />
+    <sodipodi:guide
+       position="379.0928,-737.21692"
+       orientation="1,0"
+       id="guide20372" />
+    <sodipodi:guide
+       position="-290.74023,-461.20471"
+       orientation="0,-1"
+       id="guide20473" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g46406"
+       inkscape:label="Образец">
+      <g
+         id="g46203"
+         inkscape:label="Ноги">
+        <g
+           id="g46195"
+           inkscape:label="Нога">
+          <path
+             style="fill:#710000;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 84.267982,148.87318 c 11.842956,38.22956 24.299348,78.08117 44.800768,108.31506 1.11546,-39.8431 -1.30325,-78.60842 -7.28764,-116.28637 z"
+             id="path9921"
+             inkscape:label="Нога"
+             sodipodi:nodetypes="cccc" />
+          <path
+             style="display:inline;fill:#4c0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 127.83668,253.04205 c -10.19929,-32.53897 -15.52823,-57.39488 -15.97165,-94.76731 l -17.124773,7.30115 c 1.592012,28.58797 22.599093,71.87556 33.096423,87.46616 z"
+             id="path42697"
+             sodipodi:nodetypes="cccc" />
+        </g>
+        <g
+           id="g46191"
+           inkscape:label="Нога">
+          <path
+             style="fill:#710000;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 88.828499,141.46422 c -1.853205,26.28922 -5.059536,39.62975 -1.343525,119.21344 26.524816,-48.96763 27.777566,-84.05465 38.500236,-124.343 z"
+             id="path13322"
+             inkscape:label="Нога"
+             sodipodi:nodetypes="cccc" />
+          <path
+             style="display:inline;fill:#4c0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 88.629548,255.71197 c 2.851659,-31.14549 6.239989,-71.72633 14.673222,-101.83281 l -14.842767,-1.42004 c -3.015285,41.72073 -1.583803,71.1859 0.169545,103.25285 z"
+             id="path39858"
+             sodipodi:nodetypes="cccc" />
+        </g>
+      </g>
+      <g
+         id="g46187"
+         inkscape:label="Плащ">
+        <path
+           style="fill:#cb0000;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           d="m 128.9711,22.897149 c -18.61366,-4.772533 -36.369968,-2.521413 -54.093284,8e-6 -2.930253,-8e-6 -2.679007,3.387856 -1.378634,6.189156 3.215876,6.927731 19.048645,21.260673 23.457403,34.070853 7.217395,20.971007 -34.928109,81.800574 -64.992014,115.403404 12.809405,-3.35756 32.605026,-12.77288 37.124187,-8.94196 -2.790355,5.11021 -2.413552,10.4843 -9.089353,15.2708 13.660336,1.99356 36.621823,-10.19567 54.932735,-15.2935 7.41219,1.45816 7.71241,6.54141 8.37343,9.48017 2.8475,12.65943 26.1367,-1.72106 42.44928,5.48818 C 140.7834,141.68797 120.7801,106.63687 122.76243,63.075601 Z"
+           id="path888"
+           sodipodi:nodetypes="ccssccccsccc"
+           inkscape:label="Плащ" />
+        <path
+           style="fill:#9b0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 73.945761,24.485661 C 83.692732,42.224423 108.65013,47.852751 105.95541,64.961903 102.87967,112.54736 72.033946,145.69799 36.018114,175.95528 71.139635,130.71545 99.151861,93.609429 99.082016,66.266817 95.342196,48.268463 72.01315,32.846491 73.945761,24.485661 Z"
+           id="path28237"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#9b0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 63.377219,183.76181 c 18.087837,-11.99388 14.591508,-21.33849 18.069458,-35.88273 -2.738442,8.65384 -6.71387,15.56778 -10.990275,22.05837 -2.540772,3.91628 -2.146999,8.44137 -7.079183,13.82436 z"
+           id="path43280"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:#9b0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 130.98102,183.30516 c 0.25142,-3.15455 -3.89055,-5.56244 -4.2297,-27.57502 -2.73844,8.65384 -1.385,14.35971 -4.38105,16.7811 3.34274,4.60914 0.0331,10.0095 8.61075,10.79392 z"
+           id="path44507"
+           sodipodi:nodetypes="cccc" />
+      </g>
+      <g
+         id="g35408"
+         inkscape:label="Посох">
+        <circle
+           style="fill:#ff3100;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="path32070"
+           cx="180.18648"
+           cy="83.778168"
+           r="14.459509" />
+        <path
+           style="fill:#af0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 168.03328,78.853809 c 2.47567,10.285748 10.29881,14.734176 21.04034,14.730495 -6.66943,3.687021 -26.47395,-0.574104 -21.04034,-14.730495 z"
+           id="path6150"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:#7e648b;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 173.31006,258.01705 0.54573,-139.2078 -11.67089,-36.215642 c 9.47179,6.624512 18.29845,15.667034 30.71596,11.25056 l -8.92856,25.223752 z"
+           id="path27523"
+           sodipodi:nodetypes="cccccc" />
+        <path
+           style="fill:#fffdff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 181.58251,72.794639 c 11.2458,3.50036 10.35515,11.649632 8.53076,17.0094 -0.75177,-7.252264 -2.34989,-12.150011 -8.53076,-17.0094 z"
+           id="path37983"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:#473451;fill-opacity:1;stroke:none;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 174.85236,220.85024 0.0275,-103.28366 -10.20072,-31.51582 c 3.78505,2.838115 7.56464,5.636029 11.34788,7.578785 l 1.55359,24.512625 z"
+           id="path4077"
+           sodipodi:nodetypes="cccccc" />
+      </g>
+      <g
+         id="g25065"
+         inkscape:label="Рука"
+         transform="translate(2.1507316,-10.371425)">
+        <path
+           style="fill:#cb0000;fill-opacity:1;stroke:none;stroke-width:2.64583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 106.27737,125.48434 c 38.83414,6.61683 60.1154,5.9927 80.77219,5.11097 -28.81474,-8.62526 -52.94466,-20.6631 -76.25889,-33.295118 -11.810353,3.952388 -13.620422,20.908798 -4.5133,28.184148 z"
+           id="path15319"
+           sodipodi:nodetypes="cccc"
+           inkscape:label="Рука заливка" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 106.27737,125.48434 c 27.51657,4.97139 54.44813,6.71637 80.77219,5.11097 -25.59136,-7.70739 -50.98849,-19.25016 -76.25889,-33.295118"
+           id="path24605"
+           sodipodi:nodetypes="ccc"
+           inkscape:label="Рука контур" />
+        <path
+           style="fill:#9b0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 179.54133,129.58232 c -23.01768,-2.56613 -41.29272,-5.28611 -63.42807,-10.58395 -3.95391,2.83349 -6.88043,3.88371 -9.98314,5.23976 26.0882,4.23375 51.30424,7.14544 73.41121,5.34419 z"
+           id="path39497"
+           sodipodi:nodetypes="cccc" />
+      </g>
+    </g>
+    <g
+       id="g46598"
+       inkscape:label="Образец"
+       transform="translate(-319.25678,357.40088)"
+       inkscape:export-filename="/home/svetlana/Docs/cpp/projects/Star_Survival/arts/star_step.png"
+       inkscape:export-xdpi="13.249671"
+       inkscape:export-ydpi="13.249671">
+      <g
+         id="g46566"
+         inkscape:label="Ноги">
+        <g
+           id="g46558"
+           inkscape:label="Нога">
+          <path
+             style="fill:#710000;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 84.267982,148.87318 c 11.842956,38.22956 24.299348,78.08117 44.800768,108.31506 1.11546,-39.8431 -1.30325,-78.60842 -7.28764,-116.28637 z"
+             id="path46554"
+             inkscape:label="Нога"
+             sodipodi:nodetypes="cccc" />
+          <path
+             style="display:inline;fill:#4c0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 127.83668,253.04205 c -10.19929,-32.53897 -15.52823,-57.39488 -15.97165,-94.76731 l -17.124773,7.30115 c 1.592012,28.58797 22.599093,71.87556 33.096423,87.46616 z"
+             id="path46556"
+             sodipodi:nodetypes="cccc" />
+        </g>
+        <g
+           id="g46564"
+           inkscape:label="Нога">
+          <path
+             style="fill:#710000;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 88.828499,141.46422 c -1.853205,26.28922 -5.059536,39.62975 -1.343525,119.21344 26.524816,-48.96763 27.777566,-84.05465 38.500236,-124.343 z"
+             id="path46560"
+             inkscape:label="Нога"
+             sodipodi:nodetypes="cccc" />
+          <path
+             style="display:inline;fill:#4c0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 88.629548,255.71197 c 2.851659,-31.14549 6.239989,-71.72633 14.673222,-101.83281 l -14.842767,-1.42004 c -3.015285,41.72073 -1.583803,71.1859 0.169545,103.25285 z"
+             id="path46562"
+             sodipodi:nodetypes="cccc" />
+        </g>
+      </g>
+      <g
+         id="g46576"
+         inkscape:label="Плащ">
+        <path
+           style="fill:#cb0000;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           d="m 128.9711,22.897149 c -18.61366,-4.772533 -36.369968,-2.521413 -54.093284,8e-6 -2.930253,-8e-6 -2.679007,3.387856 -1.378634,6.189156 3.215876,6.927731 19.048645,21.260673 23.457403,34.070853 7.217395,20.971007 -34.928109,81.800574 -64.992014,115.403404 12.809405,-3.35756 32.605026,-12.77288 37.124187,-8.94196 -2.790355,5.11021 -2.413552,10.4843 -9.089353,15.2708 13.660336,1.99356 36.621823,-10.19567 54.932735,-15.2935 7.41219,1.45816 7.71241,6.54141 8.37343,9.48017 2.8475,12.65943 26.1367,-1.72106 42.44928,5.48818 C 140.7834,141.68797 120.7801,106.63687 122.76243,63.075601 Z"
+           id="path46568"
+           sodipodi:nodetypes="ccssccccsccc"
+           inkscape:label="Плащ" />
+        <path
+           style="fill:#9b0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 73.945761,24.485661 C 83.692732,42.224423 108.65013,47.852751 105.95541,64.961903 102.87967,112.54736 72.033946,145.69799 36.018114,175.95528 71.139635,130.71545 99.151861,93.609429 99.082016,66.266817 95.342196,48.268463 72.01315,32.846491 73.945761,24.485661 Z"
+           id="path46570"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#9b0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 63.377219,183.76181 c 18.087837,-11.99388 14.591508,-21.33849 18.069458,-35.88273 -2.738442,8.65384 -6.71387,15.56778 -10.990275,22.05837 -2.540772,3.91628 -2.146999,8.44137 -7.079183,13.82436 z"
+           id="path46572"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:#9b0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 130.98102,183.30516 c 0.25142,-3.15455 -3.89055,-5.56244 -4.2297,-27.57502 -2.73844,8.65384 -1.385,14.35971 -4.38105,16.7811 3.34274,4.60914 0.0331,10.0095 8.61075,10.79392 z"
+           id="path46574"
+           sodipodi:nodetypes="cccc" />
+      </g>
+      <g
+         id="g46588"
+         inkscape:label="Посох">
+        <circle
+           style="fill:#ff3100;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="circle46578"
+           cx="180.18648"
+           cy="83.778168"
+           r="14.459509" />
+        <path
+           style="fill:#af0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 168.03328,78.853809 c 2.47567,10.285748 10.29881,14.734176 21.04034,14.730495 -6.66943,3.687021 -26.47395,-0.574104 -21.04034,-14.730495 z"
+           id="path46580"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:#7e648b;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 173.31006,258.01705 0.54573,-139.2078 -11.67089,-36.215642 c 9.47179,6.624512 18.29845,15.667034 30.71596,11.25056 l -8.92856,25.223752 z"
+           id="path46582"
+           sodipodi:nodetypes="cccccc" />
+        <path
+           style="fill:#fffdff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 181.58251,72.794639 c 11.2458,3.50036 10.35515,11.649632 8.53076,17.0094 -0.75177,-7.252264 -2.34989,-12.150011 -8.53076,-17.0094 z"
+           id="path46584"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:#473451;fill-opacity:1;stroke:none;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 174.85236,220.85024 0.0275,-103.28366 -10.20072,-31.51582 c 3.78505,2.838115 7.56464,5.636029 11.34788,7.578785 l 1.55359,24.512625 z"
+           id="path46586"
+           sodipodi:nodetypes="cccccc" />
+      </g>
+      <g
+         id="g46596"
+         inkscape:label="Рука"
+         transform="translate(2.1507316,-10.371425)">
+        <path
+           style="fill:#cb0000;fill-opacity:1;stroke:none;stroke-width:2.64583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 106.27737,125.48434 c 38.83414,6.61683 60.1154,5.9927 80.77219,5.11097 -28.81474,-8.62526 -52.94466,-20.6631 -76.25889,-33.295118 -11.810353,3.952388 -13.620422,20.908798 -4.5133,28.184148 z"
+           id="path46590"
+           sodipodi:nodetypes="cccc"
+           inkscape:label="Рука заливка" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 106.27737,125.48434 c 27.51657,4.97139 54.44813,6.71637 80.77219,5.11097 -25.59136,-7.70739 -50.98849,-19.25016 -76.25889,-33.295118"
+           id="path46592"
+           sodipodi:nodetypes="ccc"
+           inkscape:label="Рука контур" />
+        <path
+           style="fill:#9b0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 179.54133,129.58232 c -23.01768,-2.56613 -41.29272,-5.28611 -63.42807,-10.58395 -3.95391,2.83349 -6.88043,3.88371 -9.98314,5.23976 26.0882,4.23375 51.30424,7.14544 73.41121,5.34419 z"
+           id="path46594"
+           sodipodi:nodetypes="cccc" />
+      </g>
+    </g>
+    <g
+       id="g46644"
+       inkscape:label="Образец"
+       transform="translate(-148.7958,357.40088)"
+       inkscape:export-filename="/home/svetlana/Docs/cpp/projects/Star_Survival/arts/star_step.png"
+       inkscape:export-xdpi="13.249671"
+       inkscape:export-ydpi="13.249671">
+      <g
+         id="g46612"
+         inkscape:label="Ноги">
+        <g
+           id="g46610"
+           inkscape:label="Нога">
+          <path
+             style="fill:#710000;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 88.828499,141.46422 c -1.853205,26.28922 -5.059536,39.62975 -1.343525,119.21344 26.524816,-48.96763 27.777566,-84.05465 38.500236,-124.343 z"
+             id="path46606"
+             inkscape:label="Нога"
+             sodipodi:nodetypes="cccc" />
+          <path
+             style="display:inline;fill:#4c0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 88.629548,255.71197 c 2.851659,-31.14549 12.055222,-71.72633 20.488462,-101.83281 l -20.658007,-1.42004 c -3.015285,41.72073 -1.583803,71.1859 0.169545,103.25285 z"
+             id="path46608"
+             sodipodi:nodetypes="cccc" />
+        </g>
+        <g
+           id="g46604"
+           inkscape:label="Нога">
+          <path
+             style="fill:#710000;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 84.267982,148.87318 c 11.842956,38.22956 24.299348,78.08117 44.800768,108.31506 1.11546,-39.8431 -1.30325,-78.60842 -7.28764,-116.28637 z"
+             id="path46600"
+             inkscape:label="Нога"
+             sodipodi:nodetypes="cccc" />
+          <path
+             style="display:inline;fill:#4c0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 127.83668,253.04205 c -10.19929,-32.53897 -21.29956,-56.2867 -21.74298,-93.65913 l -11.353443,6.19297 c -9.246037,-0.0437 22.238713,73.22979 33.096423,87.46616 z"
+             id="path46602"
+             sodipodi:nodetypes="cccc" />
+        </g>
+      </g>
+      <g
+         id="g46622"
+         inkscape:label="Плащ">
+        <path
+           style="fill:#cb0000;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           d="m 128.9711,22.897149 c -18.61366,-4.772533 -36.369968,-2.521413 -54.093284,8e-6 -2.930253,-8e-6 -2.679007,3.387856 -1.378634,6.189156 3.215876,6.927731 19.048645,21.260673 23.457403,34.070853 7.217395,20.971007 -34.928109,81.800574 -64.992014,115.403404 12.809405,-3.35756 32.605026,-12.77288 37.124187,-8.94196 -2.790355,5.11021 -2.413552,10.4843 -9.089353,15.2708 13.660336,1.99356 36.621823,-10.19567 54.932735,-15.2935 7.41219,1.45816 7.71241,6.54141 8.37343,9.48017 2.8475,12.65943 26.1367,-1.72106 42.44928,5.48818 C 140.7834,141.68797 120.7801,106.63687 122.76243,63.075601 Z"
+           id="path46614"
+           sodipodi:nodetypes="ccssccccsccc"
+           inkscape:label="Плащ" />
+        <path
+           style="fill:#9b0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 73.945761,24.485661 C 83.692732,42.224423 108.65013,47.852751 105.95541,64.961903 102.87967,112.54736 72.033946,145.69799 36.018114,175.95528 71.139635,130.71545 99.151861,93.609429 99.082016,66.266817 95.342196,48.268463 72.01315,32.846491 73.945761,24.485661 Z"
+           id="path46616"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#9b0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 63.377219,183.76181 c 18.087837,-11.99388 14.591508,-21.33849 18.069458,-35.88273 -2.738442,8.65384 -6.71387,15.56778 -10.990275,22.05837 -2.540772,3.91628 -2.146999,8.44137 -7.079183,13.82436 z"
+           id="path46618"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:#9b0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 130.98102,183.30516 c 0.25142,-3.15455 -3.89055,-5.56244 -4.2297,-27.57502 -2.73844,8.65384 -1.385,14.35971 -4.38105,16.7811 3.34274,4.60914 0.0331,10.0095 8.61075,10.79392 z"
+           id="path46620"
+           sodipodi:nodetypes="cccc" />
+      </g>
+      <g
+         id="g46634"
+         inkscape:label="Посох"
+         transform="rotate(22.587133,148.53734,114.25342)">
+        <circle
+           style="fill:#ff3100;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="circle46624"
+           cx="180.18648"
+           cy="83.778168"
+           r="14.459509" />
+        <path
+           style="fill:#af0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 167.27138,81.179532 c 2.47567,10.285748 16.0306,14.690772 24.89429,8.319965 -7.95901,14.733023 -27.76789,6.761294 -24.89429,-8.319965 z"
+           id="path46626"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:#7e648b;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 173.31006,258.01705 0.54573,-139.2078 -11.67089,-36.215642 c 9.47179,6.624512 18.29845,15.667034 30.71596,11.25056 l -8.92856,25.223752 z"
+           id="path46628"
+           sodipodi:nodetypes="cccccc" />
+        <path
+           style="fill:#fffdff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 177.82797,73.389568 c 11.77793,-0.02827 13.36876,8.013694 13.23329,13.673831 -2.88922,-6.694244 -5.8808,-10.888572 -13.23329,-13.673831 z"
+           id="path46630"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:#473451;fill-opacity:1;stroke:none;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 174.85236,220.85024 0.0275,-103.28366 -10.20072,-31.51582 c 3.78505,2.838115 7.56464,5.636029 11.34788,7.578785 l 1.55359,24.512625 z"
+           id="path46632"
+           sodipodi:nodetypes="cccccc" />
+      </g>
+      <g
+         id="g46642"
+         inkscape:label="Рука"
+         transform="rotate(11.013499,223.2907,114.93387)">
+        <path
+           style="fill:#cb0000;fill-opacity:1;stroke:none;stroke-width:2.64583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 99.430397,131.13927 c 19.945203,34.67892 61.419453,19.06608 89.290053,9.55061 -45.23539,-1.63239 -54.36313,-5.63587 -74.00422,-29.90214 -11.81035,3.95239 -10.80056,10.60857 -15.285833,20.35153 z"
+           id="path46636"
+           sodipodi:nodetypes="cccc"
+           inkscape:label="Рука заливка" />
+        <path
+           style="fill:#9b0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 183.9246,141.08015 c -30.82752,6.50335 -50.59869,10.23639 -72.88686,-8.67436 -2.27047,0.19622 -8.43998,-0.056 -11.597746,-1.50801 32.505276,31.40769 59.503906,20.04963 84.484606,10.18237 z"
+           id="path46640"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 99.631742,131.49552 c 31.544288,27.21905 42.261748,24.49837 89.088708,9.19436 -42.49884,-4.14798 -42.46905,3.68926 -70.66465,-24.65845"
+           id="path46638"
+           sodipodi:nodetypes="ccc"
+           inkscape:label="Рука контур" />
+      </g>
+    </g>
+    <g
+       id="g20992"
+       inkscape:export-filename="/home/svetlana/Docs/cpp/projects/Star_Survival/arts/star_step.png"
+       inkscape:export-xdpi="12.320858"
+       inkscape:export-ydpi="12.320858">
+      <g
+         id="g1261"
+         inkscape:label="Образец"
+         transform="translate(-393.70527,738.07859)"
+         inkscape:export-filename="/home/svetlana/Docs/cpp/projects/Star_Survival/arts/star_step.png"
+         inkscape:export-xdpi="13.249671"
+         inkscape:export-ydpi="13.249671">
+        <g
+           id="g1229"
+           inkscape:label="Ноги">
+          <g
+             id="g1221"
+             inkscape:label="Нога">
+            <path
+               style="fill:#710000;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 84.267982,148.87318 c 11.842956,38.22956 24.299348,78.08117 44.800768,108.31506 1.11546,-39.8431 -1.30325,-78.60842 -7.28764,-116.28637 z"
+               id="path1217"
+               inkscape:label="Нога"
+               sodipodi:nodetypes="cccc" />
+            <path
+               style="display:inline;fill:#4c0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 127.83668,253.04205 c -10.19929,-32.53897 -15.52823,-57.39488 -15.97165,-94.76731 l -17.124773,7.30115 c 1.592012,28.58797 22.599093,71.87556 33.096423,87.46616 z"
+               id="path1219"
+               sodipodi:nodetypes="cccc" />
+          </g>
+          <g
+             id="g1227"
+             inkscape:label="Нога">
+            <path
+               style="fill:#710000;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 88.828499,141.46422 c -1.853205,26.28922 -0.764786,60.76044 -17.208328,118.45749 40.045319,-30.29505 43.642369,-83.2987 54.365039,-123.58705 z"
+               id="path1223"
+               inkscape:label="Нога"
+               sodipodi:nodetypes="cccc" />
+            <path
+               style="display:inline;fill:#4c0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 73.974732,256.30191 C 92.935613,231.24718 94.869537,183.98564 103.30277,153.87916 l -14.842767,-1.42004 c 0.4106,39.26813 -5.35124,69.24014 -14.485271,103.84279 z"
+               id="path1225"
+               sodipodi:nodetypes="cccc" />
+          </g>
+        </g>
+        <g
+           id="g1239"
+           inkscape:label="Плащ">
+          <path
+             style="fill:#cb0000;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             d="m 128.9711,22.897149 c -18.61366,-4.772533 -36.369968,-2.521413 -54.093284,8e-6 -2.930253,-8e-6 -2.679007,3.387856 -1.378634,6.189156 3.215876,6.927731 19.048645,21.260673 23.457403,34.070853 7.217395,20.971007 -34.928109,81.800574 -64.992014,115.403404 12.809405,-3.35756 32.605026,-12.77288 37.124187,-8.94196 -2.790355,5.11021 -2.413552,10.4843 -9.089353,15.2708 13.660336,1.99356 36.621823,-10.19567 54.932735,-15.2935 7.41219,1.45816 7.71241,6.54141 8.37343,9.48017 2.8475,12.65943 26.1367,-1.72106 42.44928,5.48818 C 140.7834,141.68797 120.7801,106.63687 122.76243,63.075601 Z"
+             id="path1231"
+             sodipodi:nodetypes="ccssccccsccc"
+             inkscape:label="Плащ" />
+          <path
+             style="fill:#9b0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="M 73.945761,24.485661 C 83.692732,42.224423 108.65013,47.852751 105.95541,64.961903 102.87967,112.54736 72.033946,145.69799 36.018114,175.95528 71.139635,130.71545 99.151861,93.609429 99.082016,66.266817 95.342196,48.268463 72.01315,32.846491 73.945761,24.485661 Z"
+             id="path1233"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             style="fill:#9b0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 63.377219,183.76181 c 18.087837,-11.99388 14.591508,-21.33849 18.069458,-35.88273 -2.738442,8.65384 -6.71387,15.56778 -10.990275,22.05837 -2.540772,3.91628 -2.146999,8.44137 -7.079183,13.82436 z"
+             id="path1235"
+             sodipodi:nodetypes="cccc" />
+          <path
+             style="fill:#9b0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 130.98102,183.30516 c 0.25142,-3.15455 -3.89055,-5.56244 -4.2297,-27.57502 -2.73844,8.65384 -1.385,14.35971 -4.38105,16.7811 3.34274,4.60914 0.0331,10.0095 8.61075,10.79392 z"
+             id="path1237"
+             sodipodi:nodetypes="cccc" />
+        </g>
+        <g
+           id="g1251"
+           inkscape:label="Посох">
+          <circle
+             style="fill:#ff3100;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             id="circle1241"
+             cx="180.18648"
+             cy="83.778168"
+             r="14.459509" />
+          <path
+             style="fill:#af0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 168.03328,78.853809 c 2.47567,10.285748 10.29881,14.734176 21.04034,14.730495 -6.66943,3.687021 -26.47395,-0.574104 -21.04034,-14.730495 z"
+             id="path1243"
+             sodipodi:nodetypes="ccc" />
+          <path
+             style="fill:#7e648b;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 173.31006,258.01705 0.54573,-139.2078 -11.67089,-36.215642 c 9.47179,6.624512 18.29845,15.667034 30.71596,11.25056 l -8.92856,25.223752 z"
+             id="path1245"
+             sodipodi:nodetypes="cccccc" />
+          <path
+             style="fill:#fffdff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 181.58251,72.794639 c 11.2458,3.50036 10.35515,11.649632 8.53076,17.0094 -0.75177,-7.252264 -2.34989,-12.150011 -8.53076,-17.0094 z"
+             id="path1247"
+             sodipodi:nodetypes="ccc" />
+          <path
+             style="fill:#473451;fill-opacity:1;stroke:none;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 174.85236,220.85024 0.0275,-103.28366 -10.20072,-31.51582 c 3.78505,2.838115 7.56464,5.636029 11.34788,7.578785 l 1.55359,24.512625 z"
+             id="path1249"
+             sodipodi:nodetypes="cccccc" />
+        </g>
+        <g
+           id="g1259"
+           inkscape:label="Рука"
+           transform="translate(2.1507316,-10.371425)">
+          <path
+             style="fill:#cb0000;fill-opacity:1;stroke:none;stroke-width:2.64583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 106.27737,125.48434 c 38.83414,6.61683 60.1154,5.9927 80.77219,5.11097 -28.81474,-8.62526 -52.94466,-20.6631 -76.25889,-33.295118 -11.810353,3.952388 -13.620422,20.908798 -4.5133,28.184148 z"
+             id="path1253"
+             sodipodi:nodetypes="cccc"
+             inkscape:label="Рука заливка" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 106.27737,125.48434 c 27.51657,4.97139 54.44813,6.71637 80.77219,5.11097 -25.59136,-7.70739 -50.98849,-19.25016 -76.25889,-33.295118"
+             id="path1255"
+             sodipodi:nodetypes="ccc"
+             inkscape:label="Рука контур" />
+          <path
+             style="fill:#9b0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 179.54133,129.58232 c -23.01768,-2.56613 -41.29272,-5.28611 -63.42807,-10.58395 -3.95391,2.83349 -6.88043,3.88371 -9.98314,5.23976 26.0882,4.23375 51.30424,7.14544 73.41121,5.34419 z"
+             id="path1257"
+             sodipodi:nodetypes="cccc" />
+        </g>
+      </g>
+      <g
+         id="g2428"
+         inkscape:label="Образец"
+         transform="translate(-208.49691,738.10511)"
+         inkscape:export-filename="/home/svetlana/Docs/cpp/projects/Star_Survival/arts/star_step.png"
+         inkscape:export-xdpi="13.249671"
+         inkscape:export-ydpi="13.249671">
+        <g
+           id="g2396"
+           inkscape:label="Ноги">
+          <g
+             id="g2388"
+             inkscape:label="Нога"
+             transform="rotate(9.8032798,103.35562,158.87756)">
+            <path
+               style="fill:#710000;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 84.267982,148.87318 c 11.842956,38.22956 24.299348,78.08117 44.800768,108.31506 1.11546,-39.8431 -1.30325,-78.60842 -7.28764,-116.28637 z"
+               id="path2384"
+               inkscape:label="Нога"
+               sodipodi:nodetypes="cccc" />
+            <path
+               style="display:inline;fill:#4c0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 127.83668,253.04205 c -10.19929,-32.53897 -15.52823,-57.39488 -15.97165,-94.76731 l -17.124773,7.30115 c 1.592012,28.58797 22.599093,71.87556 33.096423,87.46616 z"
+               id="path2386"
+               sodipodi:nodetypes="cccc" />
+          </g>
+          <g
+             id="g2394"
+             inkscape:label="Нога"
+             transform="rotate(-5.1631843,111.44027,218.86118)">
+            <path
+               style="fill:#710000;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="M 88.828499,141.46422 C 86.975294,167.75344 107.118,202.00136 81.075336,243.45823 133.0082,219.84288 115.26254,176.62301 125.98521,136.33466 Z"
+               id="path2390"
+               inkscape:label="Нога"
+               sodipodi:nodetypes="cccc" />
+            <path
+               style="display:inline;fill:#4c0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 84.48617,240.41407 c 30.19077,-34.38883 15.155164,-56.9231 23.5884,-87.02958 l -19.614567,-0.92537 c 5.98176,21.01744 13.969317,53.48123 -3.973833,87.95495 z"
+               id="path2392"
+               sodipodi:nodetypes="cccc" />
+          </g>
+        </g>
+        <g
+           id="g2406"
+           inkscape:label="Плащ">
+          <path
+             style="fill:#cb0000;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             d="m 128.9711,22.897149 c -18.61366,-4.772533 -36.369968,-2.521413 -54.093284,8e-6 -2.930253,-8e-6 -2.679007,3.387856 -1.378634,6.189156 3.215876,6.927731 19.048645,21.260673 23.457403,34.070853 7.217395,20.971007 -34.928109,81.800574 -64.992014,115.403404 12.809405,-3.35756 32.605026,-12.77288 37.124187,-8.94196 -2.790355,5.11021 -2.413552,10.4843 -9.089353,15.2708 13.660336,1.99356 36.621823,-10.19567 54.932735,-15.2935 7.41219,1.45816 7.71241,6.54141 8.37343,9.48017 2.8475,12.65943 26.1367,-1.72106 42.44928,5.48818 C 140.7834,141.68797 120.7801,106.63687 122.76243,63.075601 Z"
+             id="path2398"
+             sodipodi:nodetypes="ccssccccsccc"
+             inkscape:label="Плащ" />
+          <path
+             style="fill:#9b0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="M 73.945761,24.485661 C 83.692732,42.224423 108.65013,47.852751 105.95541,64.961903 102.87967,112.54736 72.033946,145.69799 36.018114,175.95528 71.139635,130.71545 99.151861,93.609429 99.082016,66.266817 95.342196,48.268463 72.01315,32.846491 73.945761,24.485661 Z"
+             id="path2400"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             style="fill:#9b0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 63.377219,183.76181 c 18.087837,-11.99388 14.591508,-21.33849 18.069458,-35.88273 -2.738442,8.65384 -6.71387,15.56778 -10.990275,22.05837 -2.540772,3.91628 -2.146999,8.44137 -7.079183,13.82436 z"
+             id="path2402"
+             sodipodi:nodetypes="cccc" />
+          <path
+             style="fill:#9b0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 130.98102,183.30516 c 0.25142,-3.15455 -3.89055,-5.56244 -4.2297,-27.57502 -2.73844,8.65384 -1.385,14.35971 -4.38105,16.7811 3.34274,4.60914 0.0331,10.0095 8.61075,10.79392 z"
+             id="path2404"
+             sodipodi:nodetypes="cccc" />
+        </g>
+        <g
+           id="g2418"
+           inkscape:label="Посох"
+           transform="rotate(12.785914,153.09779,86.413559)">
+          <circle
+             style="fill:#ff3100;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             id="circle2408"
+             cx="180.18648"
+             cy="83.778168"
+             r="14.459509" />
+          <path
+             style="fill:#af0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 168.03328,78.853809 c 2.47567,10.285748 11.41526,16.380435 22.35035,13.166886 -4.87294,8.425505 -28.46901,0.46744 -22.35035,-13.166886 z"
+             id="path2410"
+             sodipodi:nodetypes="ccc" />
+          <path
+             style="fill:#7e648b;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 173.31006,258.01705 0.54573,-139.2078 -11.67089,-36.215642 c 9.47179,6.624512 18.29845,15.667034 30.71596,11.25056 l -8.92856,25.223752 z"
+             id="path2412"
+             sodipodi:nodetypes="cccccc" />
+          <path
+             style="fill:#fffdff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 180.00633,72.27126 c 11.70507,1.308428 12.37305,9.478966 11.59616,15.08717 -2.11092,-6.978862 -4.60722,-11.48557 -11.59616,-15.08717 z"
+             id="path2414"
+             sodipodi:nodetypes="ccc" />
+          <path
+             style="fill:#473451;fill-opacity:1;stroke:none;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 174.85236,220.85024 0.0275,-103.28366 -10.20072,-31.51582 c 3.78505,2.838115 7.56464,5.636029 11.34788,7.578785 l 1.55359,24.512625 z"
+             id="path2416"
+             sodipodi:nodetypes="cccccc" />
+        </g>
+        <g
+           id="g2426"
+           inkscape:label="Рука"
+           transform="translate(2.1507316,-10.371425)">
+          <path
+             style="fill:#cb0000;fill-opacity:1;stroke:none;stroke-width:2.64583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 106.27737,125.48434 c 22.96444,17.31898 47.47931,15.3347 70.30471,11.04617 -31.34216,-3.56557 -46.91701,-17.7101 -65.79141,-39.230318 -11.810353,3.952388 -13.620422,20.908798 -4.5133,28.184148 z"
+             id="path2420"
+             sodipodi:nodetypes="cccc"
+             inkscape:label="Рука заливка" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 98.258953,118.28379 c 25.394307,23.86906 43.459057,23.38559 78.323127,18.24672 -27.20939,-5.24522 -37.53608,-6.66369 -61.40473,-35.085"
+             id="path2422"
+             sodipodi:nodetypes="ccc"
+             inkscape:label="Рука контур" />
+          <path
+             style="fill:#9b0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 168.60144,136.25228 c -25.02088,-1.01554 -42.40462,-4.46354 -52.48818,-17.25391 -7.21092,1.29439 -10.73347,0.73407 -17.06816,-1.48003 14.58984,13.67826 29.92919,25.41284 69.55634,18.73394 z"
+             id="path2424"
+             sodipodi:nodetypes="cccc" />
+        </g>
+      </g>
+      <g
+         id="g8362"
+         inkscape:label="Образец"
+         transform="translate(-23.28861,738.10511)"
+         inkscape:export-filename="/home/svetlana/Docs/cpp/projects/Star_Survival/arts/star_step.png"
+         inkscape:export-xdpi="13.249671"
+         inkscape:export-ydpi="13.249671">
+        <g
+           id="g8330"
+           inkscape:label="Ноги">
+          <g
+             id="g8322"
+             inkscape:label="Нога"
+             transform="rotate(9.8032798,103.35562,158.87756)">
+            <path
+               style="fill:#710000;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 84.267982,148.87318 c 11.842956,38.22956 14.803457,77.61403 16.263438,111.82252 16.47971,-31.59139 27.23408,-82.11588 21.24969,-119.79383 z"
+               id="path8318"
+               inkscape:label="Нога"
+               sodipodi:nodetypes="cccc" />
+            <path
+               style="display:inline;fill:#4c0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 101.54723,252.81184 c 7.73052,-48.95033 3.69172,-54.36351 3.2483,-91.73594 l -15.34764,5.68568 c 8.000317,23.83065 10.77884,63.47991 12.09934,86.05026 z"
+               id="path8320"
+               sodipodi:nodetypes="cccc" />
+          </g>
+          <g
+             id="g8328"
+             inkscape:label="Нога"
+             transform="rotate(-9.7801125,109.51111,209.75071)">
+            <path
+               style="fill:#710000;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 98.995473,146.58618 c -1.853205,26.28922 11.519357,84.1908 19.290277,114.22165 12.56773,-45.5286 11.75534,-77.07763 17.86643,-119.35121 z"
+               id="path8324"
+               inkscape:label="Нога"
+               sodipodi:nodetypes="cccc" />
+            <path
+               style="display:inline;fill:#4c0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 118.10398,254.69148 c -1.98367,-40.51809 -8.33784,-69.74287 -9.28521,-100.013 l -9.293696,-2.2961 c 1.791096,28.01212 8.971436,64.95575 18.578906,102.3091 z"
+               id="path8326"
+               sodipodi:nodetypes="cccc" />
+          </g>
+        </g>
+        <g
+           id="g8340"
+           inkscape:label="Плащ">
+          <path
+             style="fill:#cb0000;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             d="m 128.9711,22.897149 c -18.61366,-4.772533 -36.369968,-2.521413 -54.093284,8e-6 -2.930253,-8e-6 -2.679007,3.387856 -1.378634,6.189156 3.215876,6.927731 19.048645,21.260673 23.457403,34.070853 7.217395,20.971007 -34.928109,81.800574 -64.992014,115.403404 12.809405,-3.35756 32.605026,-12.77288 37.124187,-8.94196 -2.790355,5.11021 -2.413552,10.4843 -9.089353,15.2708 13.660336,1.99356 36.621823,-10.19567 54.932735,-15.2935 7.41219,1.45816 7.71241,6.54141 8.37343,9.48017 2.8475,12.65943 26.1367,-1.72106 42.44928,5.48818 C 140.7834,141.68797 120.7801,106.63687 122.76243,63.075601 Z"
+             id="path8332"
+             sodipodi:nodetypes="ccssccccsccc"
+             inkscape:label="Плащ" />
+          <path
+             style="fill:#9b0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="M 73.945761,24.485661 C 83.692732,42.224423 108.65013,47.852751 105.95541,64.961903 102.87967,112.54736 72.033946,145.69799 36.018114,175.95528 71.139635,130.71545 99.151861,93.609429 99.082016,66.266817 95.342196,48.268463 72.01315,32.846491 73.945761,24.485661 Z"
+             id="path8334"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             style="fill:#9b0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 63.377219,183.76181 c 18.087837,-11.99388 14.591508,-21.33849 18.069458,-35.88273 -2.738442,8.65384 -6.71387,15.56778 -10.990275,22.05837 -2.540772,3.91628 -2.146999,8.44137 -7.079183,13.82436 z"
+             id="path8336"
+             sodipodi:nodetypes="cccc" />
+          <path
+             style="fill:#9b0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 130.98102,183.30516 c 0.25142,-3.15455 -3.89055,-5.56244 -4.2297,-27.57502 -2.73844,8.65384 -1.385,14.35971 -4.38105,16.7811 3.34274,4.60914 0.0331,10.0095 8.61075,10.79392 z"
+             id="path8338"
+             sodipodi:nodetypes="cccc" />
+        </g>
+        <g
+           id="g8352"
+           inkscape:label="Посох"
+           transform="rotate(32.906309,132.98999,126.62618)">
+          <circle
+             style="fill:#ff3100;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             id="circle8342"
+             cx="180.18648"
+             cy="83.778168"
+             r="14.459509" />
+          <path
+             style="fill:#af0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 167.07239,82.761697 c 8.10519,12.55255 19.5033,9.51822 26.18463,2.168583 0.0204,2.954273 -2.24528,6.903946 -3.61661,8.443608 -6.91007,7.758302 -24.26999,-3.82557 -22.56802,-10.612191 z"
+             id="path8344"
+             sodipodi:nodetypes="ccsc" />
+          <path
+             style="fill:#7e648b;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 173.31006,258.01705 0.54573,-139.2078 -11.67089,-36.215642 c 9.47179,6.624512 18.29845,15.667034 30.71596,11.25056 l -8.92856,25.223752 z"
+             id="path8346"
+             sodipodi:nodetypes="cccccc" />
+          <path
+             style="fill:#fffdff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 172.70802,74.685182 c 10.19519,-5.897363 15.58412,0.280283 18.28901,5.25412 -5.84238,-4.362005 -10.52695,-6.506009 -18.28901,-5.25412 z"
+             id="path8348"
+             sodipodi:nodetypes="ccc" />
+          <path
+             style="fill:#473451;fill-opacity:1;stroke:none;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 174.85236,220.85024 0.0275,-103.28366 -10.20072,-31.51582 c 3.78505,2.838115 7.56464,5.636029 11.34788,7.578785 l 1.55359,24.512625 z"
+             id="path8350"
+             sodipodi:nodetypes="cccccc" />
+        </g>
+        <g
+           id="g8360"
+           inkscape:label="Рука"
+           transform="translate(2.1507316,-10.371425)">
+          <path
+             style="fill:#cb0000;fill-opacity:1;stroke:none;stroke-width:2.64583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 106.27737,125.48434 c 20.29139,13.53619 44.75813,30.6666 73.80401,35.18103 -24.70279,-14.17024 -48.53124,-44.85586 -69.29071,-63.365178 -11.810353,3.952388 -13.620422,20.908798 -4.5133,28.184148 z"
+             id="path8354"
+             sodipodi:nodetypes="cccc"
+             inkscape:label="Рука заливка" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 98.258953,118.28379 c 25.394307,23.86906 56.303677,36.79062 81.822427,42.38158 -18.5001,-14.022 -41.03538,-30.79855 -64.90403,-59.21986"
+             id="path8356"
+             sodipodi:nodetypes="ccc"
+             inkscape:label="Рука контур" />
+          <path
+             style="fill:#9b0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 174.28257,157.92424 c -19.45188,-8.18718 -49.11493,-24.307 -59.19849,-37.09737 -6.3134,-0.43406 -9.70429,-1.09443 -16.03898,-3.30853 20.70192,18.76256 47.50918,33.94669 75.23747,40.4059 z"
+             id="path8358"
+             sodipodi:nodetypes="cccc" />
+        </g>
+      </g>
+      <g
+         id="g16105"
+         inkscape:label="Образец"
+         transform="translate(161.91981,738.10511)"
+         inkscape:export-filename="/home/svetlana/Docs/cpp/projects/Star_Survival/arts/star_step.png"
+         inkscape:export-xdpi="13.249671"
+         inkscape:export-ydpi="13.249671">
+        <g
+           id="g16073"
+           inkscape:label="Ноги">
+          <g
+             id="g16071"
+             inkscape:label="Нога"
+             transform="rotate(-5.1631843,111.44027,218.86118)">
+            <path
+               style="fill:#710000;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 88.828499,141.46422 c -1.853205,26.28922 10.976631,62.80065 -16.842654,92.21422 51.932865,-23.61535 43.276695,-57.05543 53.999365,-97.34378 z"
+               id="path16067"
+               inkscape:label="Нога"
+               sodipodi:nodetypes="cccc" />
+            <path
+               style="display:inline;fill:#4c0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 77.288433,229.64673 c 31.405977,-29.55094 21.303252,-45.35816 29.736487,-75.46464 l -19.614566,-0.92537 c 4.42034,21.01053 9.180079,47.10183 -10.121921,76.39001 z"
+               id="path16069"
+               sodipodi:nodetypes="cccc" />
+          </g>
+          <g
+             id="g16065"
+             inkscape:label="Нога"
+             transform="rotate(14.480169,105.21766,172.80052)">
+            <path
+               style="fill:#710000;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 84.267982,148.87318 c 11.842956,38.22956 29.643298,76.7011 44.800768,108.31506 1.11546,-39.8431 -4.92837,-77.67224 -10.91276,-115.35019 z"
+               id="path16061"
+               inkscape:label="Нога"
+               sodipodi:nodetypes="cccc" />
+            <path
+               style="display:inline;fill:#4c0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 127.77321,251.49823 c -6.79204,-25.88786 -19.13093,-55.36571 -20.11839,-91.97992 l -13.306585,6.31511 c -4.18307,8.90578 25.668925,68.01455 33.424975,85.66481 z"
+               id="path16063"
+               sodipodi:nodetypes="cccc" />
+          </g>
+        </g>
+        <g
+           id="g16083"
+           inkscape:label="Плащ">
+          <path
+             style="fill:#cb0000;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             d="m 128.9711,22.897149 c -18.61366,-4.772533 -36.369968,-2.521413 -54.093284,8e-6 -2.930253,-8e-6 -2.679007,3.387856 -1.378634,6.189156 3.215876,6.927731 19.048645,21.260673 23.457403,34.070853 7.217395,20.971007 -34.928109,81.800574 -64.992014,115.403404 12.809405,-3.35756 32.605026,-12.77288 37.124187,-8.94196 -2.790355,5.11021 -2.413552,10.4843 -9.089353,15.2708 13.660336,1.99356 36.621823,-10.19567 54.932735,-15.2935 7.41219,1.45816 7.71241,6.54141 8.37343,9.48017 2.8475,12.65943 26.1367,-1.72106 42.44928,5.48818 C 140.7834,141.68797 120.7801,106.63687 122.76243,63.075601 Z"
+             id="path16075"
+             sodipodi:nodetypes="ccssccccsccc"
+             inkscape:label="Плащ" />
+          <path
+             style="fill:#9b0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="M 73.945761,24.485661 C 83.692732,42.224423 108.65013,47.852751 105.95541,64.961903 102.87967,112.54736 72.033946,145.69799 36.018114,175.95528 71.139635,130.71545 99.151861,93.609429 99.082016,66.266817 95.342196,48.268463 72.01315,32.846491 73.945761,24.485661 Z"
+             id="path16077"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             style="fill:#9b0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 63.377219,183.76181 c 18.087837,-11.99388 14.591508,-21.33849 18.069458,-35.88273 -2.738442,8.65384 -6.71387,15.56778 -10.990275,22.05837 -2.540772,3.91628 -2.146999,8.44137 -7.079183,13.82436 z"
+             id="path16079"
+             sodipodi:nodetypes="cccc" />
+          <path
+             style="fill:#9b0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 130.98102,183.30516 c 0.25142,-3.15455 -3.89055,-5.56244 -4.2297,-27.57502 -2.73844,8.65384 -1.385,14.35971 -4.38105,16.7811 3.34274,4.60914 0.0331,10.0095 8.61075,10.79392 z"
+             id="path16081"
+             sodipodi:nodetypes="cccc" />
+        </g>
+        <g
+           id="g16095"
+           inkscape:label="Посох"
+           transform="rotate(-7.9854048,-71.841494,336.93887)">
+          <circle
+             style="fill:#ff3100;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             id="circle16085"
+             cx="180.18648"
+             cy="83.778168"
+             r="14.459509" />
+          <path
+             style="fill:#af0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 168.03328,78.853809 c 2.47567,10.285748 11.41526,16.380435 22.35035,13.166886 -4.87294,8.425505 -28.46901,0.46744 -22.35035,-13.166886 z"
+             id="path16087"
+             sodipodi:nodetypes="ccc" />
+          <path
+             style="fill:#7e648b;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 173.31006,258.01705 0.54573,-139.2078 -11.67089,-36.215642 c 9.47179,6.624512 18.29845,15.667034 30.71596,11.25056 l -8.92856,25.223752 z"
+             id="path16089"
+             sodipodi:nodetypes="cccccc" />
+          <path
+             style="fill:#fffdff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 180.00633,72.27126 c 11.70507,1.308428 12.37305,9.478966 11.59616,15.08717 -2.11092,-6.978862 -4.60722,-11.48557 -11.59616,-15.08717 z"
+             id="path16091"
+             sodipodi:nodetypes="ccc" />
+          <path
+             style="fill:#473451;fill-opacity:1;stroke:none;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 174.85236,220.85024 0.0275,-103.28366 -10.20072,-31.51582 c 3.78505,2.838115 7.56464,5.636029 11.34788,7.578785 l 1.55359,24.512625 z"
+             id="path16093"
+             sodipodi:nodetypes="cccccc" />
+        </g>
+        <g
+           id="g16103"
+           inkscape:label="Рука"
+           transform="translate(2.1507316,-10.371425)">
+          <path
+             style="fill:#cb0000;fill-opacity:1;stroke:none;stroke-width:2.64583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 106.27737,125.48434 c 29.03011,20.10825 41.48464,-12.11821 46.74716,-24.48297 -29.41094,15.67198 -22.90813,22.31493 -42.23386,-3.701178 -11.810353,3.952388 -13.620422,20.908798 -4.5133,28.184148 z"
+             id="path16097"
+             sodipodi:nodetypes="cccc"
+             inkscape:label="Рука заливка" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 98.258953,118.28379 c 25.394307,23.86906 38.532087,19.93878 54.765577,-17.28242 -17.65803,8.57991 -28.86786,25.84558 -37.84718,0.44414"
+             id="path16099"
+             sodipodi:nodetypes="ccc"
+             inkscape:label="Рука контур" />
+          <path
+             style="fill:#9b0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 150.19965,104.00429 c -15.54891,17.29341 -31.08586,28.26562 -41.16942,15.47525 -3.92219,1.1115 -3.65044,0.2529 -9.98513,-1.9612 15.14577,12.67439 33.01103,29.98978 51.15455,-13.51405 z"
+             id="path16101"
+             sodipodi:nodetypes="cccc" />
+        </g>
+      </g>
+      <rect
+         style="opacity:0;fill:#9b0000;stroke-width:0.980052;stroke-linecap:round;stroke-linejoin:round"
+         id="rect20817"
+         width="13.560357"
+         height="80.015961"
+         x="365.53244"
+         y="-904.18201"
+         transform="scale(1,-1)" />
+    </g>
+  </g>
+</svg>

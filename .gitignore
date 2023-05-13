@@ -1,0 +1,11 @@
+build/*
+**/assets/themes/
+*.cbp.save
+*.layout.save
+*.layout
+*.depend
+*.log
+*.db
+*.dat
+arts/refs/*
+

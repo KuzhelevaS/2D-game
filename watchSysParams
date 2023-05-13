@@ -1,0 +1,1 @@
+GALLIUM_HUD="fps,cpu+GPU-load,requested-VRAM+VRAM-usage,draw-calls" ./Star_Survival
